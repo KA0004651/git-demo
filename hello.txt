@@ -13,6 +13,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-<<<<<<< HEAD
 hello git! master test
 hello git!  hos-fix test
+1111111111111111111111111111
